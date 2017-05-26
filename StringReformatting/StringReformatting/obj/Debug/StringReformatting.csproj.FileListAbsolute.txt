@@ -1,0 +1,6 @@
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\bin\Debug\StringReformatting.exe.config
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\bin\Debug\StringReformatting.exe
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\bin\Debug\StringReformatting.pdb
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\obj\Debug\StringReformatting.csprojResolveAssemblyReference.cache
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\obj\Debug\StringReformatting.exe
+c:\users\esther\documents\visual studio 2015\Projects\StringReformatting\StringReformatting\obj\Debug\StringReformatting.pdb
