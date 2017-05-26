@@ -1,0 +1,6 @@
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\bin\Debug\ConsecutiveChars.exe.config
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\bin\Debug\ConsecutiveChars.exe
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\bin\Debug\ConsecutiveChars.pdb
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\obj\Debug\ConsecutiveChars.csprojResolveAssemblyReference.cache
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\obj\Debug\ConsecutiveChars.exe
+c:\users\esther\documents\visual studio 2015\Projects\ConsecutiveChars\ConsecutiveChars\obj\Debug\ConsecutiveChars.pdb
