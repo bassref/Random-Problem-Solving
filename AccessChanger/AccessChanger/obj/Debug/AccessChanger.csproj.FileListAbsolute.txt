@@ -1,0 +1,6 @@
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\bin\Debug\AccessChanger.exe.config
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\bin\Debug\AccessChanger.exe
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\bin\Debug\AccessChanger.pdb
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\obj\Debug\AccessChanger.csprojResolveAssemblyReference.cache
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\obj\Debug\AccessChanger.exe
+c:\users\esther\documents\visual studio 2015\Projects\AccessChanger\AccessChanger\obj\Debug\AccessChanger.pdb
