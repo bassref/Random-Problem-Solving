@@ -1,0 +1,6 @@
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\bin\Debug\StringBinarySearch.exe.config
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\bin\Debug\StringBinarySearch.exe
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\bin\Debug\StringBinarySearch.pdb
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\obj\Debug\StringBinarySearch.csprojResolveAssemblyReference.cache
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\obj\Debug\StringBinarySearch.exe
+c:\users\esther\documents\visual studio 2015\Projects\StringBinarySearch\StringBinarySearch\obj\Debug\StringBinarySearch.pdb
